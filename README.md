@@ -5,7 +5,7 @@ API desenvolvida utilizando Nest.js.
 ## Como fazer o clone
 
 ```bash
-git clone git@github.com:IvanBorba/blue-hambluergueria-nest.git
+git clone https://github.com/JoaoLeite47/hamburgueria_server_hambluergueria.git
 ```
 
 ## Como instalar as dependências
